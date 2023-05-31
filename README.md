@@ -1,1 +1,1 @@
-# Hotel-Management-System-Tkinter
+# Hotel-Management-System-Python-Tkinter
